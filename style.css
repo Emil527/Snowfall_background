@@ -1,0 +1,22 @@
+body {
+    height: 100vh;
+    background: url(img/1585930548118680083.jpg)  50%/cover  no-repeat ;
+    overflow: hidden;
+    color: white;
+    font-family: 'Inter';
+   
+}
+/* img{
+    position: absolute;
+    object-fit: cover;
+} */
+.snow {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+    z-index: 1000;
+    }
+
